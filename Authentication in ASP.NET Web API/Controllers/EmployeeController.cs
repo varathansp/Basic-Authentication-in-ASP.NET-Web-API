@@ -13,14 +13,25 @@ namespace Authentication_in_ASP.NET_Web_API.Controllers
         [BasicAuthentication]
         public HttpResponseMessage Get()
         {
-           string username= Thread.CurrentPrincipal.Identity.Name;
+            string username = Thread.CurrentPrincipal.Identity.Name;
             using (dbsampleEntities EntityObject = new dbsampleEntities())
             {
                 return Request.CreateResponse(HttpStatusCode.OK,
 
-                    EntityObject.Employees.FirstOrDefault(us => us.EmpName == username));
+                    EntityObject.Employees.ToList());
             }
         }
+        //[BasicAuthentication]
+        //public HttpResponseMessage Get()
+        //{
+        //   string username= Thread.CurrentPrincipal.Identity.Name;
+        //    using (dbsampleEntities EntityObject = new dbsampleEntities())
+        //    {
+        //        return Request.CreateResponse(HttpStatusCode.OK,
+
+        //            EntityObject.Employees.FirstOrDefault(us => us.EmpName == username));
+        //    }
+        //}
         //query string parameter
         //public HttpResponseMessage Get(string location = "All")
         //{

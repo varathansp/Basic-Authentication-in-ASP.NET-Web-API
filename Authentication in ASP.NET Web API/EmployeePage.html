@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            alert("Document ready");
+            var ulEmployees = $('#ulEmployees');
+            $('#btn').click(function () {
+                alert("Buttion clicked");
+                var username=$('#txtUserName').val();
+                var password=$('#txtPassword').val();
+                $.ajax({
+                    type: 'GET',
+                    url: "api/Employee/",
+                    dataType: 'json',
+                    headers: {
+                        'Authorization':'Basic '+btoa(username+':'+password)
+                    },
+                    success: function (data) {
+                        alert("success");
+                        ulEmployees.empty();
+                        $.each(data, function (index, val) {
+                            alert("value iteration");
+                            var name = val.EmpName +' ' +val.EmpLocation;
+
+                           // ulEmployees.append('<li>' + val.EmpName +' '+val.EmpSalary+ ' '+val.EmpLocation+ '</li>')
+                            ulEmployees.append('<li>'+name+'</li>');
+                        });
+                    
+                    },
+                    complete: function (jqXHR) {
+
+                        if (jqXHR.status == '401')
+                        {
+                            ulEmployees.empty();
+                            ulEmployees.append('<li style="color:red">' + jqXHR.status + ' ' + jqXHR.statusText + '</li>');
+                        }
+                    }
+
+                });
+
+            });
+            $('#btnClear').click(function () {
+                alert("clear");
+                ulEmployees.empty();
+            });
+        });
+    </script>
+
+</head>
+<body>
+    User Name: <input id="txtUserName" type="text" />
+    Password : <input id="txtPassword" type="password" />
+    <br /><br />
+    <input id="btn" type="button" value="Authenticate and Get" />
+    <input id="btnClear" type="button" value="Clear" />
+    <ul id="ulEmployees"></ul>
+    <label id="lbl"></label>
+</body>
+</html>

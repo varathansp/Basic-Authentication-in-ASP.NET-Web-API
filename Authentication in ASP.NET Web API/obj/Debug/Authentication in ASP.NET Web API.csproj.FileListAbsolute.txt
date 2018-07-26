@@ -1,0 +1,77 @@
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\csc.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\System.Collections.Immutable.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\vbc.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\VBCSCompiler.exe
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\roslyn\VBCSCompiler.exe.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Authentication in ASP.NET Web API.dll.config
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Authentication in ASP.NET Web API.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Authentication in ASP.NET Web API.pdb
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Antlr3.Runtime.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\EntityFramework.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\EntityFramework.SqlServer.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Google.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Web.Infrastructure.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Newtonsoft.Json.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Owin.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Net.Http.Formatting.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Helpers.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.Owin.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.WebHost.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Mvc.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Optimization.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Razor.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.Deployment.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.Razor.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\WebGrease.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Newtonsoft.Json.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Net.Http.Formatting.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Helpers.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.WebHost.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Mvc.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Optimization.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Razor.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.Deployment.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.WebPages.Razor.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Antlr3.Runtime.pdb
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\EntityFramework.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\EntityFramework.SqlServer.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Google.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\bin\System.Web.Http.Owin.xml
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\obj\Debug\Authentication in ASP.NET Web API.csprojResolveAssemblyReference.cache
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\obj\Debug\Authentication in ASP.NET Web API.dll
+c:\users\varathan sp\documents\visual studio 2015\Projects\Authentication in ASP.NET Web API\Authentication in ASP.NET Web API\obj\Debug\Authentication in ASP.NET Web API.pdb
